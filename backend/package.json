@@ -11,5 +11,8 @@
   },
   "author": "Syed Bilal Hhmed",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
